@@ -8,6 +8,8 @@
 ### 3) Crear un archipo PHP
 ### 4) Realizar el codigo que se solicita
 ### 5) Abrir en el navegador la ruta
+### 6) Ruta del archivo: 
+http://localhost/carpeta_php/index.php
 ## Dylan Leonel Andrade Lucas
 ## 26000148@galileo.edu
 ## 26000148
